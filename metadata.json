@@ -1,0 +1,8 @@
+{
+  "name": "MyStudyLife",
+  "description": "A comprehensive student productivity and utility app for managing schedules, tasks, marks, and notes with a built-in AI study assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
